@@ -1,7 +1,7 @@
 # tt-api-and-db-testing-framework
-Framework with automated tests for backend of the TT* App (b2b, team and knowledge management platform). 
+Framework with some of the automated tests for backend of the TT* App (b2b, team and knowledge management platform). 
 
-[Currently] includes:
+Includes:
 - tests for 3 API endpoints (with the full check of actual result; by executing queries in database among others)
 - sets of test data for 2 user roles, including expected result of tests depending on user role (so, in general, 17 test runs for now)
 
